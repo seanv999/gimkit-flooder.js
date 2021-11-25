@@ -16,6 +16,6 @@ https://greasyfork.org/en/scripts/436027-gimkit-answer-cheat
 
 If you dont run it on the pin enter screen it wont hook and will not work properly (it will say hooked when the questions show if you do it right)
 
-![image](https://user-images.githubusercontent.com/79374771/143367304-9831ac49-37a9-4cfb-a7d3-712560c77a95.png)
+![image](https://user-images.githubusercontent.com/79374771/143388740-71a68277-85fa-4fbc-a0b3-7ac83b8019d1.png)
 
 this is new and needs updating for more question type support
