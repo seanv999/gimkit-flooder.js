@@ -1,19 +1,21 @@
-# GimKit
-Run this in console on pin enter screen
+- [](https://via.placeholder.com/15/1589F0/000000?text=+) `Run this in console on pin enter screen`
 ```js
 fetch("https://raw.githubusercontent.com/seanv999/GimKit/main/OpenSource.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
-Or paste this into bookmarkbar and click it on pin enter screen
+
+- [](https://via.placeholder.com/15/1589F0/000000?text=+) `Or paste this into bookmarkbar and click it on pin enter screen`
 ```js
 javascript:(function()%7Bfetch(%22https%3A%2F%2Fraw.githubusercontent.com%2Fseanv999%2FGimKit%2Fmain%2FOpenSource.js%22)%0A.then((res)%20%3D%3E%20res.text()%0A.then((t)%20%3D%3E%20eval(t)))%7D)()%3B
 ```
-Or install Tampermonkey script here -> ```
-https://greasyfork.org/en/scripts/436027-gimkit-answer-cheat```
+- [](https://via.placeholder.com/15/1589F0/000000?text=+) `Or install Tampermonkey script here -> `
+```
+https://greasyfork.org/en/scripts/436027-gimkit-answer-cheat
+```
 
 If you dont run it on the pin enter screen it wont hook and will not work properly (it will say hooked when the questions show if you do it right)
 
-![image](https://user-images.githubusercontent.com/79374771/143200054-33a8b1c7-1d51-44fe-b8a0-7f54ab4220b0.png)
+![image](https://user-images.githubusercontent.com/79374771/143367304-9831ac49-37a9-4cfb-a7d3-712560c77a95.png)
 
 this is new and needs updating for more question type support
