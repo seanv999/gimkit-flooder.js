@@ -11,7 +11,7 @@ javascript:(function()%7Bfetch(%22https%3A%2F%2Fraw.githubusercontent.com%2Fsean
 ```
 - [](https://via.placeholder.com/15/1589F0/000000?text=+) `Or install Tampermonkey script here  `
 ```
-https://greasyfork.org/en/scripts/436027-gimkit-answer-cheat
+Being fixed
 ```
 
 If you dont run it on the pin enter screen it wont hook and will not work properly (it will say hooked when the questions show if you do it right)
