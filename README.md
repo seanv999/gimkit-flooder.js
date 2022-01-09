@@ -1,3 +1,4 @@
+# Gimkit Answer Hack
 - [](https://via.placeholder.com/15/1589F0/000000?text=+) `Run this in console on pin enter screen`
 ```js
 fetch("https://raw.githubusercontent.com/seanv999/GimKit/main/OpenSource.js")
