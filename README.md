@@ -1,4 +1,4 @@
-# Gimkit Answer Hack UNDETECTED
+# Gimkit Answer Hack DETECTED
 # Status: Working
 - [](https://via.placeholder.com/15/1589F0/000000?text=+) Paste this into bookmarkbar and click it on as shown in the gif
 ```js
