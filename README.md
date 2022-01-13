@@ -1,4 +1,4 @@
-# Gimkit Classic Cheat [Fully undetected]
+# Gimkit Classic Cheat [detected] i've been updating constently for the past 3 days im done LOL
 # instagram => @sean999_
 - [](https://via.placeholder.com/15/1589F0/000000?text=+) Paste this into bookmarkbar and click it on as shown in the gif
 ```js
