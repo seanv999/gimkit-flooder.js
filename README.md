@@ -5,3 +5,5 @@ javascript:(function()%7B(function(a%2Cb)%7Bfunction%20x(a%2Cb%2Cc%2Cd%2Ce)%7Bre
 ```
 
 ![ezgif-2-2b03c90f96](https://user-images.githubusercontent.com/79374771/148756409-d83d13a9-5cc5-42e4-9e8a-e53a987dbbc1.gif)
+# Confused?
+https://www.youtube.com/watch?v=eAIeAw7f3Q4
