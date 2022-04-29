@@ -1,4 +1,4 @@
-# Status: Being fixed, if you find an issue make an issue so it can be fixed sooner
+# Status: stage 1 of patching: Finding entry
 
 - [](https://via.placeholder.com/15/1589F0/000000?text=+) Paste this into bookmarkbar and click it on as shown in the gif press E to get answer
 ```js
