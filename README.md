@@ -1,4 +1,4 @@
-# Status: being fixed
+# Status: Will be fixed when school starts (late july)
 
 - [](https://via.placeholder.com/15/1589F0/000000?text=+) Paste this into bookmarkbar and click it on as shown in the gif press E to get answer
 ```js
