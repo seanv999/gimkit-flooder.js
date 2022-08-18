@@ -6,5 +6,4 @@ javascript:(function()%7B(function(_0x107a63%2C_0x52d61e)%7Bfunction%20_0x54aca9
 ```
 
 ![ezgif-2-2b03c90f96](https://user-images.githubusercontent.com/79374771/148756409-d83d13a9-5cc5-42e4-9e8a-e53a987dbbc1.gif)
-# Confused?
-https://www.youtube.com/watch?v=eAIeAw7f3Q4
+
