@@ -1,5 +1,5 @@
 # gimkit-flooder.js
-A node package to flood gimkit games
+npm i gimkit-flooder-js
 
 # Example
 
