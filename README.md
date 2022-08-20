@@ -1,5 +1,7 @@
 # gimkit-flooder.js
-npm i gimkit-flooder-js
+```
+npm i gimkit-flooder.js
+```
 
 # Example
 
