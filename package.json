@@ -1,0 +1,16 @@
+{
+  "name": "gimkit-flooder.js",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node": "^18.7.0",
+    "ws": "^8.8.1"
+  }
+}
