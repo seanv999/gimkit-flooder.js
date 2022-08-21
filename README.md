@@ -1,25 +1,24 @@
-# gimkit-flooder.js
+# Installation
 ```
-npm i gimkit-flooder.js
+npm install gimkit-flooder.js
 ```
 
 # Example
 
 ```js
-const Gimkit = require('gimkit-flooder.js');
+const Gimkit = require('gimkit-flooder.js);
 
-const options = {
-    pin:240981,
-    name:'Bot',
-    amount:200
-};
+const gimkit = new Gimkit();
 
-const flood = ({ pin, name, amount }) => {
-    const client = new Gimkit(pin);
-    for(i=0;i<amount;i++){
-        client.join(name);
-    };
-};
+gimkit.setPin(890045);
 
-flood(options);
+gimkit.on('joined', player => {
+    console.log(`${player} joined`);
+});
+
+gimkit.on('error', error => {
+    console.log(error);
+});
+
+gimkit.join('Sean V');
 ```
