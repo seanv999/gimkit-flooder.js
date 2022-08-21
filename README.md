@@ -6,7 +6,7 @@ npm install gimkit-flooder.js
 # Example
 
 ```js
-const Gimkit = require('gimkit-flooder.js);
+const Gimkit = require('gimkit-flooder.js');
 
 const gimkit = new Gimkit();
 
